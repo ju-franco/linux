@@ -1,6 +1,6 @@
 # 🐧 Linux – Website Acadêmico  
 
-[**Acesse O Site**]((https://ju-franco.github.io/linux/))
+[**Acesse O Site**](https://ju-franco.github.io/linux/index.html)
 
 Website desenvolvido com fins acadêmicos para apresentar conceitos fundamentais sobre o **Sistema Operacional Linux**, sua história, características, vantagens, desvantagens e um guia básico de instalação.
 
